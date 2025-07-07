@@ -59,7 +59,7 @@ _**Infrastructure**_
 
 _**Other rules**_
 
-* The project will not offer inidividual email accounts
+* The project will not offer individual email accounts
   under its project domain for privacy and equality reasons.
 * Be nice to each other (Formerly known as "Rule 12")
 
