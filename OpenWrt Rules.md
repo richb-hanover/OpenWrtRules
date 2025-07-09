@@ -34,14 +34,14 @@ _**Voting**_
   The proposal must clearly describe the suggested changes
   and include a specific deadline for when the voting period will end.
   A simple approval is required.
+* All active members who voted in the past 6 months before the new vote was started are considered active voters. If less than 3 votes happened in the past 6 months the last 3 votes are considered to determine the active voters.
 * For a simple approval, the proposal must achieve a two-thirds majority
   among the active members who participate in the vote.
-  Additionally, it must receive approval from at least one-third
-  of all active members,
+  Additionally, it must receive approval from at least 50% of the active voters,
   regardless of whether they participated in the vote.
 * For a change to these rules, a 75% majority among the active members
   who participate in the vote must approve,
-  as well as 50% approval from all active members.
+  as well as 50% approval from the active voters.
 * Frequent contributors may become members after a simple approval.
   Project members are free to suggest suitable candidates.
 * Any votes and decisions made will be made public on the project website.
