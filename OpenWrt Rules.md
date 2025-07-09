@@ -42,6 +42,7 @@ _**Voting**_
 * For a change to these rules, a 75% majority among the active members
   who participate in the vote must approve,
   as well as 50% approval from the active voters.
+* Neutral votes are considered half aprovals.
 * Frequent contributors may become members after a simple approval.
   Project members are free to suggest suitable candidates.
 * Any votes and decisions made will be made public on the project website.
