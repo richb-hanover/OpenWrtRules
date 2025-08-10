@@ -19,8 +19,7 @@ _**Membership**_
   
 _**Commit access**_
 
-* Active members have commit access to all repositories.
-  Inactive members and non-members do not.
+* Active members can request commit access to all repositories.
 * The commit credentials of inactive members are revoked.
   They will be restored upon their return to active status.
   
