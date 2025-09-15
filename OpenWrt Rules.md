@@ -10,6 +10,8 @@ _**Membership**_
   group of specially privileged members.
 * Members may voluntarily switch between active and inactive status at
   any time.
+* Frequent contributors may become active members after a Simple Approval.
+  Project members are free to propose suitable candidates.
 * If a member appears not to be participating in project matters, 
   any active member may request that the non-participating
   member switch to inactive status. 
@@ -36,19 +38,18 @@ _**Voting**_
   and include a specific deadline for when the voting period will end.
   A simple approval is required.
 * All active members who participate in the new vote or voted in the past
-  6 months before the new vote was started are considered active voters.
-  If less than 3 votes occurred in the past 6 months the last 3 votes
-  are considered to determine the active voters. 
-* For a simple approval, the proposal must achieve a two-thirds majority
+  6 months before the new vote was started remain active members.
+  If fewer than 3 votes have occurred in the past 6 months, the last 3 votes
+  are considered to determine the active members. 
+* For a **Simple Approval**, the proposal must achieve a two-thirds majority
   among the active members who participate in the vote.
   Additionally, it must receive approval from at least 50% of the active
-  voters, regardless of whether they participated in the vote.
-* For a change to these rules, a 75% majority among the active members
+  members, regardless of whether they participated in the vote.
+* For **other changes**, such as a change to these rules,
+  a 75% majority among the active members
   who participate in the vote must approve,
-  as well as 50% approval from the active voters.
+  as well as 50% approval from the active members.
 * Neutral votes are considered half-approvals.
-* Frequent contributors may become members after a simple approval.
-  Project members are free to suggest suitable candidates.
 * Any votes and decisions will be made public on the project website.
 
 _**Infrastructure**_
